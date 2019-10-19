@@ -27,3 +27,12 @@
 .settings-area {
   padding: 30px;
 }
+
+
+.Checkout.is-desktop .ModalContainer {
+  width: 30% !important;
+}
+
+.Checkout.is-desktop .Modal {
+  width: auto !important;
+}
